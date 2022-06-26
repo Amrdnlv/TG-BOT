@@ -36,7 +36,7 @@ namespace TelegramBotExperiments
         "https://castlots.org/img/kamasutra/96.jpg",
         "https://castlots.org/img/kamasutra/66.jpg"};
 
-        static ITelegramBotClient bot = new TelegramBotClient("5271600530:AAEReY0fFdk6YjiRWBdx-qfTHqyRgVzf3HI");
+        static ITelegramBotClient bot = new TelegramBotClient("_________token______");
 
         public static ReplyKeyboardMarkup replyKeyboardMarkuprandompoze = new(new[]
         {new KeyboardButton[] { "/easy", "/medium","back" },}){ ResizeKeyboard = true};
